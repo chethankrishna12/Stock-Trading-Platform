@@ -1,7 +1,7 @@
 import React from 'react';
 function Hero() {
     return (
-        <h1>Support Hero Page</h1>
+        <h1>Hero Page</h1>
     );
 }
 
