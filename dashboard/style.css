@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.dashboard {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+/* Common column style */
+.column {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Common button style */
+button {
+    padding: 12px 30px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+/* Group colors */
+.red button {
+    background-color: red;
+}
+
+.green button {
+    background-color: green;
+}
+
+.blue button {
+    background-color: blue;
+}
