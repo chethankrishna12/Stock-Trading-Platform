@@ -101,12 +101,6 @@ This project is divided into three main parts:
 
 ---
 
-## 📸 Screenshots
-
-(Add your project screenshots here)
-
----
-
 ## 🔗 Author
 
 Chethan Krishna  
