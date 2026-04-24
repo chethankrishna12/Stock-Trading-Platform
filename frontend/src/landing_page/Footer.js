@@ -5,8 +5,8 @@ function Footer() {
             <div className='container'>
                 <div className='row mt-5 '>
                     <div className='col'>
-                        <img className="mb-3" src='media/images/logo.svg' style={{ width: '50%' }} />
-                        <p className='text-muted'>© 2010 - 2026, Zerodha Broking Ltd.<br />
+                        <img className="mb-3" src='media/images/logo.png' style={{ width: '75%' }} />
+                        <p className='text-muted'>© 2010 - 2026, Trading Broking Ltd.<br />
 
                             All rights reserved.
 
@@ -23,10 +23,10 @@ function Footer() {
                         <a className="text-decoration-none text-muted" href="">Referral programme</a>
 
                         <a className="text-decoration-none text-muted" href="">Careers</a>
-                        <a className="text-decoration-none text-muted" href="">Zerodha.tech</a>
+                        <a className="text-decoration-none text-muted" href="">Trading.tech</a>
 
                         <a className="text-decoration-none text-muted" href="">Press & media</a>
-                        <a className="text-decoration-none text-muted" href="">Zerodha cares (CSR)</a>
+                        <a className="text-decoration-none text-muted" href="">Trading cares (CSR)</a>
                     </div>
 
 
@@ -56,12 +56,12 @@ function Footer() {
                 </div>
                 <div className='text-muted mt-5' style={{ fontSize: '12px' }}>
                     <p>
-                        Zerodha Broking Ltd.: Member of NSE, BSE​ &​ MCX – SEBI Registration no.:
-                        INZ000031633 CDSL/NSDL: Depository services through Zerodha Broking Ltd. –
-                        SEBI Registration no.: IN-DP-431-2019 Registered Address: Zerodha Broking Ltd.,
+                        Trading Broking Ltd.: Member of NSE, BSE​ &​ MCX – SEBI Registration no.:
+                        INZ000031633 CDSL/NSDL: Depository services through Trading Broking Ltd. –
+                        SEBI Registration no.: IN-DP-431-2019 Registered Address: Trading Broking Ltd.,
                         #153/154, 4th Cross, Dollars Colony, Opp. Clarence Public School, J.P Nagar 4th Phase,
                         Bengaluru - 560078, Karnataka, India. For any complaints pertaining to securities broking
-                        please write to complaints@zerodha.com, for DP related to dp@zerodha.com. Please ensure you
+                        please write to complaints@trading.com, for DP related to dp@trading.com. Please ensure you
                         carefully read the Risk Disclosure Document as prescribed by SEBI | ICF
                     </p>
 
@@ -90,7 +90,7 @@ function Footer() {
                         of allotment. In case of non allotment the funds will remain in your
                         bank account. As a business we don't give stock tips, and have not
                         authorized anyone to trade on behalf of others. If you find anyone
-                        claiming to be part of Zerodha and offering such services, please
+                        claiming to be part of Trading and offering such services, please
                         create a ticket here.</p>
                 </div>
 

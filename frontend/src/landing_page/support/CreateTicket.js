@@ -12,14 +12,14 @@ function CreateTicket() {
                     <a href="" style={{ textDecoration: "none", lineHeight: "3" }}>Offline Account Opening</a><br />
                     <a href="" style={{ textDecoration: "none", lineHeight: "" }}>Company, Partnership and HUF Account Opening</a><br />
                     <a href="" style={{ textDecoration: "none", lineHeight: "3" }}>NRI Account Opening</a><br />
-                    <a href="" style={{ textDecoration: "none", lineHeight: "3" }}> Charges at Zerodha</a><br />
-                    <a href="" style={{ textDecoration: "none", lineHeight: "3" }}>Zerodha IDFC FIRST Bank 3-in-1 Account</a><br />
+                    <a href="" style={{ textDecoration: "none", lineHeight: "3" }}> Charges at Trading</a><br />
+                    <a href="" style={{ textDecoration: "none", lineHeight: "3" }}>Trading IDFC FIRST Bank 3-in-1 Account</a><br />
                     <a href="" style={{ textDecoration: "none", lineHeight: "3" }}>Getting Started</a><br />
 
                 </div>
 
                 <div className='col-4 p-5 mt-2 mb-2'>
-                    <h4 className="" ><i class="fa fa-user" aria-hidden="true"></i> Your Zerodha Account</h4>
+                    <h4 className="" ><i class="fa fa-user" aria-hidden="true"></i> Your Trading Account</h4>
                     <a href="" style={{ textDecoration: "none", lineHeight: "3" }}>Login Credentials</a><br />
                     <a href="" style={{ textDecoration: "none", lineHeight: "" }}>Account Modification and Segement Addition</a><br />
                     <a href="" style={{ textDecoration: "none", lineHeight: "3" }}>DP ID and Bank Details</a><br />

@@ -9,7 +9,7 @@ function Stats() {
                         Customer-first always
                     </h2>
                     <p className='text-muted'>
-                        That's why 1.3+ crore customers trust Zerodha with ₹3.5+ lakh crores
+                        That's why 1.3+ crore customers trust Trading with ₹3.5+ lakh crores
                         worth of equity investments.
                     </p>
                     <h2 className='fs-4'>
@@ -20,7 +20,7 @@ function Stats() {
                         High quality apps that you use at your pace, the way you like.
                     </p>
                     <h2 className='fs-4'>
-                        The Zerodha universe
+                        The Trading universe
                     </h2>
                     <p className='text-muted'>
                         Not just an app, but a whole ecosystem. Our investments in 30+

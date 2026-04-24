@@ -2,10 +2,10 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 function Navbar() {
     return (
-        <nav class="navbar navbar-expand-lg border-bottom" style={{ backgroundColor: 'white' }}>
+        <nav class="navbar navbar-expand-lg border-bottom bg-light" style={{ backgroundColor: 'white' }}>
             <div class="container">
                 <Link class="navbar-brand" to="/">
-                    <img src='media/images/logo.svg' style={{ width: '25%' }} alt='logo' />
+                    <img src='media/images/logo.png' style={{ width: '45%' }} alt='logo' />
                 </Link>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>

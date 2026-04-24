@@ -9,25 +9,25 @@ function Team() {
 
             <div className='row p-5 text-muted' style={{ lineHeight: "1.8", fontSize: "1.1em" }}>
                 <div className='col-6 p-3 text-center'>
-                    <img src="media/images/nithinKamath.jpg" alt="Team" style={{ borderRadius: '100%', width: '50%' }} />
-                    <h4 className='mt-5'>Nithin Kamath</h4>
-                    <h6>Founder & CEO</h6>
+                    <img src="media/images/chethan.jpeg" alt="Team" style={{ borderRadius: '100%', width: '50%' }} />
+                    <h4 className='mt-5'>Chethan Krishna</h4>
+                    <h6>Developer </h6>
                 </div>
                 <div className='col-6 p-3'>
                     <p>
-                        Nithin bootstrapped and founded Zerodha in 2010 to overcome the hurdles he faced during his decade long stint
-                        as a trader. Today, Zerodha has changed the landscape of the Indian broking industry.
+                        Chethan is a passionate developer and MCA student with a strong interest in building real-world web applications. He created Trading as a modern stock trading platform inspired by real industry systems, focusing on simplicity, speed, and user-friendly design with hands-on experience in Java, frontend development, and Nodejs
                     </p>
                     <p>
-                        He is a member of the SEBI Secondary Market Advisory Committee (SMAC) and the Market Data Advisory Committee
-                        (MDAC).
+                        He is continuously learning and improving his skills in backend development and system design to build scalable applications in the future.
                     </p>
                     <p>
-                        Playing basketball is his zen.
+                        In his free time, he enjoys exploring new technologies, working on personal projects, and improving his coding skills.
                     </p>
                     <p>
                         Connect on <Link to="/homepage">Homepage</Link> / <a href="https://tradingqna.com">TradingQnA</a> /
-                        <Link to="/twitter">Twitter</Link>
+                        <a href="https://www.linkedin.com/in/chethan-krishna12" target="_blank" rel="noopener noreferrer">
+                            LinkedIn
+                        </a>
                     </p>
                 </div>
             </div>
